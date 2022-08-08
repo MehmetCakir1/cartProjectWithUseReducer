@@ -36,7 +36,7 @@ const Main = () => {
               <div className="text-center text-sm-start">
                 <h2>{title}</h2>
                 <h4>${price}</h4>
-                <button className="btn bg-transparent text-primary fs-4 p-0 border-0" onClick={()=>removeItem(id)}>
+                <button className="btn bg-transparent text-danger fs-4 p-0 border-0" onClick={()=>removeItem(id)}>
                   remove
                 </button>
               </div>

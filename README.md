@@ -8,4 +8,4 @@
 - __Bootstrap5__<br>
 - __Javascript__<br>
 
-<div align="center"><img src="https://github.com/MehmetCakir1/cartProjectWithUseReducer/blob/master/cart.gif">
+<div align="center"><img src="https://github.com/MehmetCakir1/cartProjectWithUseReducer/blob/master/cart.gif"></div>
